@@ -1,17 +1,17 @@
-# nome = "Marllon"
+nome = "Marllon"
 
-# print(nome.upper())
-# print(nome.lower())
-# print(nome.title())
+print(nome.upper())
+print(nome.lower())
+print(nome.title())
 
-# print()
+print()
 
-# texto = " Olá mundo!        "
+texto = " Olá mundo!        "
 
-# print(texto + ".")
-# print(texto.strip() + ".")
-# print(texto.lstrip() + ".")
-# print(texto.rstrip() + ".")
+print(texto + ".")
+print(texto.strip() + ".")
+print(texto.lstrip() + ".")
+print(texto.rstrip() + ".")
 
 menu = "Python"
 
